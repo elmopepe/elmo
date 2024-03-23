@@ -1,0 +1,2 @@
+function a(t,e){return{bodyClassName:"framer-body-znQyyTIuI",breakpoints:[{hash:"tjba5l"}],description:"ELMO PEPE",elements:{},framerSearch:{index:!0},title:"ELMO PEPE",viewport:"width=1440"}}var i=1,s={exports:{default:{type:"function",annotations:{framerContractVersion:"1"}},metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{a,i as b,s as c};
+//# sourceMappingURL=chunk-CGN2GKR4.mjs.map
